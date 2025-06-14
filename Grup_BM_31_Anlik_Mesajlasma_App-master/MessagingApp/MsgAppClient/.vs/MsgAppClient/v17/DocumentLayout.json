@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Grup_BM_31_Anlik_Mesajlasma_App-master\\Grup_BM_31_Anlik_Mesajlasma_App-master\\MessagingApp\\MsgAppClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39FEAE07-B0EA-4377-AA49-4BAEBEA2DFA1}|MsgAppClient\\MsgAppClient.csproj|c:\\users\\lenovo\\desktop\\grup_bm_31_anlik_mesajlasma_app-master\\grup_bm_31_anlik_mesajlasma_app-master\\messagingapp\\msgappclient\\msgappclient\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39FEAE07-B0EA-4377-AA49-4BAEBEA2DFA1}|MsgAppClient\\MsgAppClient.csproj|solutionrelative:msgappclient\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39FEAE07-B0EA-4377-AA49-4BAEBEA2DFA1}|MsgAppClient\\MsgAppClient.csproj|C:\\Users\\Lenovo\\Desktop\\Grup_BM_31_Anlik_Mesajlasma_App-master\\Grup_BM_31_Anlik_Mesajlasma_App-master\\MessagingApp\\MsgAppClient\\msgappclient\\client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39FEAE07-B0EA-4377-AA49-4BAEBEA2DFA1}|MsgAppClient\\MsgAppClient.csproj|solutionrelative:msgappclient\\client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39FEAE07-B0EA-4377-AA49-4BAEBEA2DFA1}|MsgAppClient\\MsgAppClient.csproj|C:\\Users\\Lenovo\\Desktop\\Grup_BM_31_Anlik_Mesajlasma_App-master\\Grup_BM_31_Anlik_Mesajlasma_App-master\\MessagingApp\\MsgAppClient\\msgappclient\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39FEAE07-B0EA-4377-AA49-4BAEBEA2DFA1}|MsgAppClient\\MsgAppClient.csproj|solutionrelative:msgappclient\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39FEAE07-B0EA-4377-AA49-4BAEBEA2DFA1}|MsgAppClient\\MsgAppClient.csproj|C:\\Users\\Lenovo\\Desktop\\Grup_BM_31_Anlik_Mesajlasma_App-master\\Grup_BM_31_Anlik_Mesajlasma_App-master\\MessagingApp\\MsgAppClient\\msgappclient\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{39FEAE07-B0EA-4377-AA49-4BAEBEA2DFA1}|MsgAppClient\\MsgAppClient.csproj|solutionrelative:msgappclient\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Grup_BM_31_Anlik_Mesajlasma_App-master\\Grup_BM_31_Anlik_Mesajlasma_App-master\\MessagingApp\\MsgAppClient\\MsgAppClient\\Client.cs",
+              "RelativeDocumentMoniker": "MsgAppClient\\Client.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Grup_BM_31_Anlik_Mesajlasma_App-master\\Grup_BM_31_Anlik_Mesajlasma_App-master\\MessagingApp\\MsgAppClient\\MsgAppClient\\Client.cs",
+              "RelativeToolTip": "MsgAppClient\\Client.cs",
+              "ViewState": "AgIAADMBAAAAAAAAAAAcwHIBAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T19:20:01.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Grup_BM_31_Anlik_Mesajlasma_App-master\\Grup_BM_31_Anlik_Mesajlasma_App-master\\MessagingApp\\MsgAppClient\\MsgAppClient\\Client.cs",
+              "RelativeDocumentMoniker": "MsgAppClient\\Client.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Grup_BM_31_Anlik_Mesajlasma_App-master\\Grup_BM_31_Anlik_Mesajlasma_App-master\\MessagingApp\\MsgAppClient\\MsgAppClient\\Client.cs [Tasar\u0131m]",
+              "RelativeToolTip": "MsgAppClient\\Client.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T19:20:02.801Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Grup_BM_31_Anlik_Mesajlasma_App-master\\Grup_BM_31_Anlik_Mesajlasma_App-master\\MessagingApp\\MsgAppClient\\MsgAppClient\\App.config",
+              "RelativeDocumentMoniker": "MsgAppClient\\App.config",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Grup_BM_31_Anlik_Mesajlasma_App-master\\Grup_BM_31_Anlik_Mesajlasma_App-master\\MessagingApp\\MsgAppClient\\MsgAppClient\\App.config",
+              "RelativeToolTip": "MsgAppClient\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-14T19:20:02.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Grup_BM_31_Anlik_Mesajlasma_App-master\\Grup_BM_31_Anlik_Mesajlasma_App-master\\MessagingApp\\MsgAppClient\\MsgAppClient\\Client.Designer.cs",
+              "RelativeDocumentMoniker": "MsgAppClient\\Client.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Grup_BM_31_Anlik_Mesajlasma_App-master\\Grup_BM_31_Anlik_Mesajlasma_App-master\\MessagingApp\\MsgAppClient\\MsgAppClient\\Client.Designer.cs",
+              "RelativeToolTip": "MsgAppClient\\Client.Designer.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAnwEwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T19:20:02.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
