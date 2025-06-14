@@ -24,3 +24,23 @@ Bu proje, C# ile geliştirilmiş bir **anlık mesajlaşma sunucusudur**. TCP sok
 1. Bu repoyu klonla:
    ```bash
    git clone https://github.com/deniizesra/anlik-chat-app.git
+2.Visual Studio ile MsgAppServer.sln dosyasını aç.
+
+Derle ve çalıştır:
+
+Server uygulamasını başlat.
+
+İstemciler bağlantı kurdukça sunucu üzerinden mesajlaşma gerçekleşir.
+
+🧪 Test
+Projeyi test etmek için basit bir TCP istemcisi kullanabilir ya da kendi istemci uygulamanı yazabilirsin.
+💡 Katkıda Bulun
+Katkı sağlamak istersen:
+
+Fork yap
+
+Yeni bir branch oluştur: feature/yeniozellik
+
+Değişiklikleri commit et
+
+Pull Request gönder
